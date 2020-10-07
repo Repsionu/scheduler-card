@@ -76,7 +76,7 @@
   },
   "domains": {
     "camera": "kaamerad",
-    "climate": "kliimaseade",
+    "climate": "kliimaseadmed",
     "cover": "(akna)katted",
     "fan": "ventilaatorid",
     "group": "grupid",
@@ -84,7 +84,7 @@
     "input_number": "arvsisestus",
     "input_select": "sisendivalik",
     "light": "valgustid",
-    "media_player": "media players",
+    "media_player": "meediaesitajad",
     "scene": "stseenid",
     "switch": "lülitid",
     "vacuum": "tolmuimejad"
