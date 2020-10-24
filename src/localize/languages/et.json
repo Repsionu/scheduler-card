@@ -24,7 +24,7 @@
     "options": "Suvandid",
     "day_type_daily": "iga päev",
     "day_type_weekdays": "tööpäevadel",
-    "day_type_weekend": "nädalavahetus",
+    "day_type_weekend": "nädalavahetusel",
     "day_type_custom": "valikuline"
   },
   "days_short": {
@@ -52,7 +52,7 @@
   },
   "services": {
     "turn_on": "lülita sisse",
-    "turn_on_brightness": "turn on {at brightness}",
+    "turn_on_brightness": "heledusega {at brightness}",
     "turn_off": "lülita välja",
     "close_cover": "sulge",
     "open_cover": "ava",
@@ -103,11 +103,11 @@
     "absolute": "kell {time}",
     "relative": "{time} pärast",
     "interval": "alates {startTime} kuni {endTime}",
-    "seconds": "{seconds} sekundit",
-    "hour": "1 tund",
-    "hours": "{hours} tundi",
+    "seconds": "{seconds} sekundi",
+    "hour": "1 tunni",
+    "hours": "{hours} tunni",
     "minute": "1 minut",
-    "minutes": "{minutes} minutit",
+    "minutes": "{minutes} minuti",
     "now": "kohe",
     "midnight": "keskööl",
     "noon": "keskpäeval",
